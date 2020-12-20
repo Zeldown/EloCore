@@ -1,0 +1,12 @@
+name: EloCore
+author: Zeldown
+version: 1.0
+main: be.zeldown.elocore.EloCore
+
+commands:
+  elo:
+    usage: /elo
+    description: elo
+  elofaction:
+    usage: /elofaction
+    description: elofaction
